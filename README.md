@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://aora-alpha.vercel.app" target="_blank">
-      <img src="https://github.com/ankandalui/aora-ai-web/blob/ef9f3a3c5e7c66946965ad0b6f75c6d2d0dd15d1/ScreenShot.png" alt="Project Banner">
+      <img src="https://github.com/ankandalui/aora-ai-web/blob/e734775205f6385f80e699a1ef849665b58ffce2/Aora.jpg" alt="Project Banner">
     </a>
   <br />
   <br />
