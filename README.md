@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="/" target="_blank">
+    <a href="https://aora-alpha.vercel.app" target="_blank">
       <img src="https://github.com/ankandalui/aora-ai-web/blob/ef9f3a3c5e7c66946965ad0b6f75c6d2d0dd15d1/ScreenShot.png" alt="Project Banner">
     </a>
   <br />
@@ -849,6 +849,6 @@ export default Roadmap;
 - [Assets](https://drive.google.com/file/d/1JKzwPl_hnpjIlNbwfjMagb4HosxnyXbf/view?usp=sharing)
 - [Design](https://drive.google.com/file/d/15WJMOchujvaQ7Kg9e0nGeGR7G7JOeX1K/view?usp=sharing)
 - [Absolute Relative Positioning](https://css-tricks.com/absolute-positioning-inside-relative-positioning/)
-- [Live Website](https://jsm-brainwave.com/)
+- [Live Website](https://aora-alpha.vercel.app/)
 
 #
